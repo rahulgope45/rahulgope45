@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Gope</h1>
-<h3 align="center">Student at DY Patil University | Full-Stack Developer</h3>
+<h3 align="center">Student at DY Patil University | Full-Stack Developer |</h3>
 
 ---
 
