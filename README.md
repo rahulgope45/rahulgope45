@@ -15,16 +15,14 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,figma,flutter,firebase,postman,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,figma,flutter,firebase,postman,pandas,sklearn&perline=8" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgope45&layout=donut&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulgope45&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgope45&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" height="250"/>
 </p>
 
 ---
-
