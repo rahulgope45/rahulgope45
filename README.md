@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Gope</h1>
+<h1 align="center">Hi , I'm Rahul Gope</h1>
 <h3 align="center">Student at DY Patil University | Full-Stack Developer |</h3>
 
 ---
@@ -12,7 +12,7 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgope45&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgope45&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" height="150"/>
 </p>
 
 ---
