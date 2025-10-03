@@ -12,7 +12,7 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgope45&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgope45&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" height="250"/>
 </p>
 
 ---
