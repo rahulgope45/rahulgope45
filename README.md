@@ -2,7 +2,9 @@
 <h3 align="center">Student at DY Patil University | Software Developer |</h3>
 
 ---
-### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulgope45&color=blueviolet&style=flat">
+</p>
 ---
 
 ### 🛠️ Languages & Tools
