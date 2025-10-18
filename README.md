@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Rahul Gope</h1>
 <h3 align="center">Student at DY Patil University | Software Developer |</h3>
 
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulgope45&color=blueviolet&style=flat">
 </p>
