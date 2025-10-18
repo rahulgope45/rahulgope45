@@ -2,6 +2,8 @@
 <h3 align="center">Student at DY Patil University | Software Developer |</h3>
 
 ---
+### ⚙️ &nbsp;GitHub Analytics
+---
 
 ### 🛠️ Languages & Tools
 <p align="center">
