@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulgope45&color=blueviolet&style=flat">
 </p>
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -16,7 +17,7 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgope45&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" height="250"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulgope45&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
