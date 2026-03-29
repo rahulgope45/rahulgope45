@@ -9,7 +9,7 @@
 
 ### Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,figma,flutter,firebase,postman,sklearn&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,typescript,postgres,prisma,python,fastapi,git,figma,supabase,tailwindcss,postman,docker&perline=8" />
 </p>
 
 ---
