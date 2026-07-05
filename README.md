@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Rahul Gope</h1>
-<h3 align="center">Student at DY Patil University | Software Developer |</h3>
+<h3 align="center">| Software Developer |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulgope45&color=blueviolet&style=flat">
@@ -9,7 +9,7 @@
 
 ### Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,typescript,postgres,prisma,python,git,figma,supabase,tailwindcss,postman,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,postgres,prisma,redis,next,python,figma,supabase,tailwindcss,docker&perline=8" />
 </p>
 
 ---
