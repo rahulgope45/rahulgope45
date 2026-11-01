@@ -13,7 +13,7 @@ I build full-stack products, and I'm currently working on a multi-tenant LIMS fo
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,express,postgres,prisma,redis,mongodb,docker,tailwindcss,figma&perline=12" />
+  <img src="https://skillicons.dev/icons?i=typescript,go,react,nextjs,nodejs,express,postgres,prisma,redis,mongodb,docker,tailwindcss,figma&perline=12" />
 </p>
 
 ### GitHub Stats
