@@ -9,7 +9,7 @@
 </p>
 
 ### About
-I build full-stack products, and I'm currently working on a multi-tenant LIMS for pathology labs. I care about clean architecture, reliable data, and interfaces people actually enjoy using.
+SDE experienced in LIMS, ERP and HRMS applications, I'm currently working on a multi-tenant LIMS for pathology labs.
 
 ### Tech Stack
 <p>
