@@ -13,7 +13,7 @@ SDE experienced in LIMS, ERP and HRMS applications, I'm currently working on a m
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,go,react,nextjs,nodejs,express,postgres,prisma,redis,mongodb,docker,tailwindcss,figma&perline=14" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,go,react,nextjs,nodejs,express,postgres,prisma,redis,mongodb,docker,tailwindcss,figma&perline=14" />
 </p>
 
 ### GitHub Stats
