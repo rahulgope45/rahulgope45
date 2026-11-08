@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rahul Gope</h1>
-<p align="center">Full-Stack Developer building multi-tenant LIMS &amp; CRM applications</p>
+<p align="center">Full-Stack Developer building multi-tenant LIMS, ERP, HRMS &amp; CRM applications</p>
 
 <p align="center">
   <a href="https://rahulgope.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
