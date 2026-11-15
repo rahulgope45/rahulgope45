@@ -16,7 +16,10 @@ SDE experienced in LIMS, ERP and HRMS applications, I'm currently working on a m
   <img src="https://skillicons.dev/icons?i=typescript,python,go,react,nextjs,nodejs,express,postgres,prisma,redis,mongodb,docker,tailwindcss,figma&perline=14" />
 </p>
 
-### GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulgope45&layout=compact&langs_count=6&theme=algolia" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulgope45&theme=github_dark"
+    height="160"
+  />
 </p>
+
